@@ -50,4 +50,4 @@ Este sistema está en desarrollo y algunas funcionalidades adicionales, como la 
 
 Diagrama de clases UML del sistema bancario:
 
-![Diagrama de Clases UML](images/Diagrama BankingProject.drawio.png)
+![Diagrama de Clases UML](images/Diagrama%20BankingProject.drawio.png)
